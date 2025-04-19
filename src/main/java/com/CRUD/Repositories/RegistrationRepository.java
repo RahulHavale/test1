@@ -10,4 +10,5 @@ public interface RegistrationRepository extends JpaRepository<Registration, Long
 
     //code 2
     //code 3
+    //code 4
 }
